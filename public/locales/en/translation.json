@@ -1,0 +1,6 @@
+{
+    "forms": {
+        "filesChosen": "1 file selected",
+        "filesChosen_plural": "{{count}} files selected"
+    }
+}
